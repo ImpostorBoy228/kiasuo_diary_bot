@@ -69,6 +69,3 @@ AI-based Telegram bot for sending homework assignments from the Kiasuo diary sys
 - Requires manual authentication every hour due to Gosuslugi token expiry.
 - Unstable due to API changes and authentication issues.
 
-## License
-
-MIT
