@@ -1,4 +1,4 @@
-# kiasuo_diary_bot
+# kiasuo_diary_bot(LEGACY VIBECODE ALERT)
 
 AI-based Telegram bot for sending homework assignments from the Kiasuo diary system.
 
